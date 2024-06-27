@@ -1,6 +1,6 @@
 {
-    "name": "hsu_bakery",
-    "short_name": "hsu_bakery",
+    "name": "my_practice_project",
+    "short_name": "my_practice_project",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
